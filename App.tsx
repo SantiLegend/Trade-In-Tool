@@ -197,7 +197,7 @@ function App() {
     <div className="bg-gray-50 min-h-screen flex flex-col items-center justify-center p-2 sm:p-4">
       <header className="text-center mb-6 sm:mb-8">
         <HeaderIcon className="h-14 w-14 mx-auto mb-4 text-blue-600" />
-        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 px-2">Instant Trade-In Estimator</h1>
+        <h1 className="text-3xl md:text-4xl font-extrabold text-gray-900 px-2">Instant Trade-In Estimator!</h1>
       </header>
       
       <main className="w-full max-w-3xl bg-white p-6 sm:p-10 rounded-2xl shadow-lg border border-gray-200">
